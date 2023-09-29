@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muchammad Nizar Almas Sukirno</h1>
-<h3 align="center">I often find myself just chillin, drinking coffee, and coding, as I believe in the philosophy of "learn by doing.</h3>
+<h3 align="center">I often find myself just chillin, drinking coffee, and coding, as I believe in the philosophy of "learn by doing".</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihhzaeyy&label=Profile%20views&color=0e75b6&style=flat" alt="nihhzaeyy" /> </p>
 
@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **Ez to making a friend with me and support system for your jokes lmao.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
