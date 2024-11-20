@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Wonderful Jogja**
 
-- 🌱 I’m currently learning **React.js ,Python, Node.js, Databases**
+- 🌱 I’m currently learning **React.js, NextJs ,Python, Node.js and Databases**
 
 - 💬 Ask me about **Front-End Web Technologies**
 
