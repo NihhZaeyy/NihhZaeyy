@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihhzaeyy&label=Profile%20views&color=0e75b6&style=flat" alt="nihhzaeyy" /> </p>
 
-- 🔭 I’m currently working on **Wonderful Jogja**
+- 🔭 I’m currently working on **ElevBoard: Your Ultimate Real-Time Collaboration Hub**
 
-- 🌱 I’m currently learning **React.js, NextJs ,Python, Node.js and Databases**
-
-- 💬 Ask me about **Front-End Web Technologies**
+- 🌱 I’m currently learning **FullStack Web Dev and Backend Dev Python**
 
 - 📫 How to reach me **nizaralmas01@gmail.com**
 
-- ⚡ Fun fact **Ez to making a friend with me and support system for your jokes lmao.**
+- ⚡ Fun fact: **Ez to making a friend with me and support system for your jokes lmao.**
 
 <p align="left">
 </p>
