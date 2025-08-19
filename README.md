@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **ElevBoard: Your Ultimate Real-Time Collaboration Hub**
 
-- 🌱 I’m currently learning **FullStack Web Dev and Backend Dev Python**
-
 - 📫 How to reach me **nizaralmas01@gmail.com**
 
 - ⚡ Fun fact: **Ez to making a friend with me and support system for your jokes lmao.**
